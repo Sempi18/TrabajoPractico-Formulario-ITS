@@ -1,0 +1,9 @@
+{
+  "options": [
+    { "value": "Mañana", "label": "Mañana" },
+    { "value": "Mediodia", "label": "Mediodia" },
+    { "value": "Tarde", "label": "Tarde" },
+    { "value": "Noche", "label": "Noche" },
+    { "value": "Nocturno", "label": "Nocturno" }
+  ]
+}
